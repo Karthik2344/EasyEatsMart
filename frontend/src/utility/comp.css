@@ -1,0 +1,10 @@
+.nav-link {
+    color: #4b5563; /* Default color */
+    transition: color 0.3s, text-decoration 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #000; /* Dark black color on hover */
+    text-decoration: underline; /* Underline on hover */
+  }
+  
